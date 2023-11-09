@@ -1,6 +1,6 @@
 <h1>My First Website</h1>
 
-<p>Welcome to my first website! This project is a simple web application built using Python and Flask. It includes user authentication, login/logout functionality, and the ability to sign up for a new account. The project also uses SQLAlchemy for database management.</p>
+<p>Welcome to my first website! This project is a simple notes web application built using Python and Flask. It includes user authentication, login/logout functionality, and the ability to sign up for a new account. The project also uses SQLAlchemy for database management.</p>
 
 <h3>Features</h3>
 <ul>
