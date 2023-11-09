@@ -12,23 +12,10 @@
 To run this project locally, follow these steps:
 
 <ol>
-  <li>Clone the repository: <code>git clone https://github.com/your-username/your-repository.git
-cd your-repository</code>
+  <li>Clone the repository: <code>git clone <repo-url></code>
 </li>
-  <li>Create a virtual environment: <code>python -m venv venv</code>
-  </li>
-  <li> Activate the virtual environment:
-    <ul>
-      <li>On Windows: <code>venv\Scripts\activate</code> </li>
-      <li>On macOs and Linux: <code>source venv/bin/activate</code> </li>
-    </ul>
-  </li>
   <li> Install dependencies: <code> pip install -r requirements.txt </code> </li>
-  <li> Set up the database: <code>python
-    from your_package import create_app, db
-    db.create_all(app=create_app())
-    exit()</code></li>
-  <li>Run the application: <code>flask run</code> </li>
+  <li>Run the application: <code>python main.py</code> </li>
   <li>Open your web browser and navigate to http://127.0.0.1:5000/ to access the website.</li>
 </ol>
 
