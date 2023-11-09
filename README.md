@@ -12,7 +12,7 @@
 To run this project locally, follow these steps:
 
 <ol>
-  <li>Clone the repository: <code>git clone <repo-url></code>
+  <li>Clone the repository: <code>git clone https://github.com/lafonsecallorca/website_one.git</code>
 </li>
   <li> Install dependencies: <code> pip install -r requirements.txt </code> </li>
   <li>Run the application: <code>python main.py</code> </li>
